@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Roll
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Roll\ here.\r\n\ \r\n\ @author\ Biraj\ Singh\ GC\r\n\ @version\ 2/2019\r\n
+comment1.params=
+comment1.target=Roll()
+comment2.params=
+comment2.target=int\ roller()
+comment3.params=
+comment3.target=void\ performAction()
+numComments=4

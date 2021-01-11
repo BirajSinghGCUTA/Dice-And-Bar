@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Bar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bar\ here.\r\n\ \r\n\ @author\ Biraj\ Singh\ GC\r\n\ @version\ 2/2019\r\n
+comment1.params=initHeight
+comment1.target=Bar(int)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ redraw()
+comment4.params=
+comment4.target=void\ grow()
+comment5.params=
+comment5.target=void\ Heightreset()
+comment6.params=i
+comment6.target=void\ Barcount(int)
+comment7.params=
+comment7.target=int\ getBarcount()
+comment8.params=
+comment8.target=int\ getHeight()
+comment9.params=
+comment9.target=void\ act()
+comment9.text=\r\n\ Act\ -\ do\ whatever\ the\ Bar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=10

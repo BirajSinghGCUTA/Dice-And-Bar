@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DiceImageGenerator
+comment0.text=\r\n\ DiceImageGenerator\ is\ a\ support\ class\ that\ will\ build\ an\ image\ of\ the\ face\r\n\ of\ a\ dice\ for\ you.\r\n\ While\ you\ are\ welcome\ to\ modify\ this\ class\ if\ you\ want\ to\ ,\ doing\ such\ is\ \r\n\ highly\ inadvisable\!\r\n\ \r\n\ @author\ Stephen\ Blythe\ \r\n\ @version\ 4/2019\r\n
+comment1.params=value
+comment1.target=greenfoot.GreenfootImage\ generateImage(int)
+comment1.text=\r\n\ builds\ and\ returns\ a\ new\ image\ containing\ the\ number\ of\ dots\r\n\ specified\ by\ the\ dice\ value\r\n\ \r\n\ @param\ value\ the\ current\ face\ value\ of\ the\ dice\ to\ draw\r\n\ @return\ the\ new\ image\ holding\ the\ representtaion\ of\ the\ dice\r\n
+comment2.params=existingDiceImage\ newValue
+comment2.target=void\ redrawImage(greenfoot.GreenfootImage,\ int)
+comment2.text=\r\n\ takes\ an\ existing\ dice\ image\ and\ a\ new\ value\ and\ redraws\ the\ image\ accordingly\r\n\ \r\n\ @param\ existingDIceImage\ is\ the\ image\ to\ redraw.\ Note\ that\ this\ must\ be\ an\r\n\ already\ existing\ imageexisting\ image\r\n\ @param\ newValue\ is\ the\ new\ number\ of\ dots\ to\ show\ in\ the\ image\r\n
+comment3.params=nDots\ yPos\ onDiceImage
+comment3.target=void\ drawRow(int,\ int,\ greenfoot.GreenfootImage)
+numComments=4
